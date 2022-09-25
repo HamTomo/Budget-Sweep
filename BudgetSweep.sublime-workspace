@@ -1,0 +1,1226 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list",
+				"listNumberOfMonths"
+			],
+			[
+				"l",
+				"listNumberOfMonths"
+			],
+			[
+				"mon",
+				"monthList"
+			],
+			[
+				"f",
+				"firstYear"
+			],
+			[
+				"fi",
+				"firstMonth"
+			],
+			[
+				"last",
+				"lastMonth"
+			],
+			[
+				"df",
+				"dfTemp"
+			],
+			[
+				"impor",
+				"importTransactions"
+			],
+			[
+				"gl",
+				"glyphs"
+			],
+			[
+				"get",
+				"getGlyph"
+			],
+			[
+				"fil",
+				"fillRect"
+			],
+			[
+				"co",
+				"context"
+			],
+			[
+				"c",
+				"context"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"t",
+				"typeData"
+			],
+			[
+				"fon",
+				"fontSize"
+			],
+			[
+				"r",
+				"rows"
+			],
+			[
+				"a",
+				"actualBoundingBoxAscent"
+			],
+			[
+				"ac",
+				"actualBoundingBoxLeft"
+			],
+			[
+				"lin",
+				"lineCap"
+			],
+			[
+				"line",
+				"lineCap"
+			],
+			[
+				"fr",
+				"frame"
+			],
+			[
+				"sc",
+				"scaleMax"
+			],
+			[
+				"sca",
+				"scaleMin"
+			],
+			[
+				"ca",
+				"canvas-sketch-util"
+			],
+			[
+				"cel",
+				"cellw"
+			],
+			[
+				"mar",
+				"margy"
+			],
+			[
+				"ce",
+				"cellw"
+			],
+			[
+				"grid",
+				"gridh"
+			],
+			[
+				"g",
+				"gridw"
+			],
+			[
+				"gr",
+				"gridh"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"s",
+				"stroke"
+			],
+			[
+				"agen",
+				"agents"
+			],
+			[
+				"rand",
+				"randomRange"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/BudgetSweep.py",
+			"settings":
+			{
+				"buffer_size": 5885,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "../"
+					},
+					"AwAAANwWAAAAAAAA3RYAAAAAAAAAAAAA3RYAAAAAAADeFgAAAAAAAAAAAADeFgAAAAAAAN8WAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3BYAAAAAAADcFgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "../"
+					},
+					"AwAAALoWAAAAAAAAuxYAAAAAAAAAAAAAuxYAAAAAAAC8FgAAAAAAAAAAAAC8FgAAAAAAAL0WAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuhYAAAAAAAC6FgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AgAAABQVAAAAAAAAFhUAAAAAAAAAAAAACxUAAAAAAAANFQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHBUAAAAAAAAKFQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAACcAAAAAAAAAKQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/Users/hamish/Library/Mobile Documents/com~apple~CloudDocs/Projects/Complete/PythonPDF/src/pythonPDF.py",
+			"settings":
+			{
+				"buffer_size": 2771,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"contents": "DataFrame.at()   \t#Selection by Label\nDataFrame.iat()   \t#Selection by Position\nDataFrame.loc()   \t#Selection by Label\nDataFrame.iloc()\t#Selection by Position",
+			"settings":
+			{
+				"buffer_size": 158,
+				"line_ending": "Unix",
+				"name": "DataFrame.at()   #Selection by Label"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAARQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					5,
+					2,
+					"left_delete",
+					null,
+					"AgAAAA8AAAAAAAAADwAAAAAAAAABAAAAIA4AAAAAAAAADgAAAAAAAAABAAAALA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAA4AAAAAAAAADwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					2,
+					"left_delete",
+					null,
+					"AgAAAB8AAAAAAAAAHwAAAAAAAAABAAAAIB4AAAAAAAAAHgAAAAAAAAABAAAALA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAB4AAAAAAAAAHwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAeAAAAAAAAAB4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAC4AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAvAAAAAAAAAAUAAAAgYW5kIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAzAAAAAAAAAC4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "   "
+					},
+					"AwAAAA4AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABEAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "#Selec"
+					},
+					"BgAAABEAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAARAAAAAAAAABEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "tion"
+					},
+					"BAAAABcAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABoAAAAAAAAAAAAAABoAAAAAAAAAGwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAXAAAAAAAAABcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": " by"
+					},
+					"AwAAABsAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAbAAAAAAAAABsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": " Label"
+					},
+					"BgAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAeAAAAAAAAAB4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					33,
+					1,
+					"paste",
+					null,
+					"AQAAAEQAAAAAAAAAWgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAAAAAAAAAEQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					36,
+					1,
+					"paste",
+					null,
+					"AQAAADQAAAAAAAAASgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA0AAAAAAAAADQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": "Positin"
+					},
+					"CAAAAEUAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABGAAAAAAAAAAUAAABMYWJlbEYAAAAAAAAARwAAAAAAAAAAAAAARwAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEkAAAAAAAAAAAAAAEkAAAAAAAAASgAAAAAAAAAAAAAASgAAAAAAAABLAAAAAAAAAAAAAABLAAAAAAAAAEwAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABFAAAAAAAAAEoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					42,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEsAAAAAAAAASwAAAAAAAAABAAAAbg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABMAAAAAAAAAEwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "on"
+					},
+					"AgAAAEsAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABNAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABLAAAAAAAAAEsAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					49,
+					1,
+					"paste",
+					null,
+					"AQAAAIQAAAAAAAAAmgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACEAAAAAAAAAIQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAAIQAAAAAAAAAhQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACEAAAAAAAAAIQAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAAGAAAAAAAAAAYQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAADcAAAAAAAAAOAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA3AAAAAAAAADcAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAABEAAAAAAAAAEgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAARAAAAAAAAABEAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"contents": "               Amount Category      Budget\nOriginal Date                             \n13/08/2021     -10.99    Bills  unbudgeted\n24/12/2021     -11.00    Bills  unbudgeted\n08/12/2021    -187.00    Bills  unbudgeted\n08/12/2021     -35.00    Bills  unbudgeted\n02/12/2021      -4.00    Bills  unbudgeted\n...               ...      ...         ...\n06/04/2021      -7.99    Bills  unbudgeted\n08/02/2021      -4.99    Bills  unbudgeted\n02/02/2021      -7.99    Bills  unbudgeted\n19/01/2021     -14.99    Bills  unbudgeted\n04/01/2021      -4.80    Bills  unbudgeted",
+			"settings":
+			{
+				"buffer_size": 558,
+				"line_ending": "Unix",
+				"name": "Amount Category      Budget"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAALgIAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"contents": "# Categories =\n# Bills\n# Food & drink\n# Experiences\n# General\n# Gift\n# Giving\n# Groceries\n# Holidays\n# Household\n# Income\n# Personal care\n# Pub\n# Savings\n# Shopping\n# Transfers\n# Transport\n# Unusual\n# Work Lunches\n# Work travel\n\n# categories = [Bills, \\\n# \t\t\tFood_drink, \\\n# \t\t\tExperiences, \\\n# \t\t\tGeneral, \\\n# \t\t\tGift, \\\n# \t\t\tGiving, \\\n# \t\t\tGroceries, \\\n# \t\t\tHolidays, \\\n# \t\t\tHousehold, \\\n# \t\t\tIncome, \\\n# \t\t\tPersonalcare, \\\n# \t\t\tPub, \\\n# \t\t\tSavings, \\\n# \t\t\tShopping, \\\n# \t\t\tTransfers, \\\n# \t\t\tTransport, \\\n# \t\t\tUnusual, \\\n# \t\t\tWorkLunches, \\\n# \t\t\tWorktravel]\n\n# dfcategories = [dfBills, \\\n# \t\tdfFood_drink, \\\n# \t\tdfExperiences, \\\n# \t\tdfGeneral, \\\n# \t\tdfGift, \\\n# \t\tdfGiving, \\\n# \t\tdfGroceries, \\\n# \t\tdfHolidays, \\\n# \t\tdfHousehold, \\\n# \t\tdfIncome, \\\n# \t\tdfPersonalcare, \\\n# \t\tdfPub, \\\n# \t\tdfSavings, \\\n# \t\tdfShopping, \\\n# \t\tdfTransfers, \\\n# \t\tdfTransport, \\\n# \t\tdfUnusual, \\\n# \t\tdfWorkLunches, \\\n# \t\tdfWorktravel]\n\t\n# Bills \t\t = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n# Food_drink \t = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n# Experiences  = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n# General \t = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n# Gift \t\t = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n# Giving \t\t = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n# Groceries \t = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n# Holidays \t = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n# Household \t = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n# Income \t\t = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n# Personalcare = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n# Pub \t\t = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n# Savings \t = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n# Shopping \t = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n# Transfers \t = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n# Transport \t = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n# Unusual \t = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n# WorkLunches  = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n# Worktravel   = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]",
+			"settings":
+			{
+				"buffer_size": 1903,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAA4wAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAOMAAAAAAAAA5AAAAAAAAAAAAAAA5AAAAAAAAADlAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADjAAAAAAAAAOMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					1,
+					"paste",
+					null,
+					"AQAAAOUAAAAAAAAALwIAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADlAAAAAAAAAOUAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAC8CAAAAAAAAMAIAAAAAAAAAAAAAMAIAAAAAAAAxAgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAvAgAAAAAAAC8CAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					17,
+					1,
+					"paste",
+					null,
+					"AQAAADECAAAAAAAApgMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAxAgAAAAAAADECAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAKYDAAAAAAAApwMAAAAAAAAAAAAApwMAAAAAAACoAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACmAwAAAAAAAKYDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					21,
+					1,
+					"paste",
+					null,
+					"AQAAAKgDAAAAAAAAgwcAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACoAwAAAAAAAKgDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					25,
+					1,
+					"unindent",
+					null,
+					"AQAAAKcDAAAAAAAApwMAAAAAAAABAAAACQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACoAwAAAAAAAKgDAAAAAAAAAAAAAAAAPEA"
+				],
+				[
+					32,
+					1,
+					"unindent",
+					null,
+					"EwAAADECAAAAAAAAMQIAAAAAAAABAAAACU4CAAAAAAAATgIAAAAAAAABAAAACWICAAAAAAAAYgIAAAAAAAABAAAACXcCAAAAAAAAdwIAAAAAAAABAAAACYgCAAAAAAAAiAIAAAAAAAABAAAACZYCAAAAAAAAlgIAAAAAAAABAAAACaYCAAAAAAAApgIAAAAAAAABAAAACbkCAAAAAAAAuQIAAAAAAAABAAAACcsCAAAAAAAAywIAAAAAAAABAAAACd4CAAAAAAAA3gIAAAAAAAABAAAACe4CAAAAAAAA7gIAAAAAAAABAAAACQQDAAAAAAAABAMAAAAAAAABAAAACREDAAAAAAAAEQMAAAAAAAABAAAACSIDAAAAAAAAIgMAAAAAAAABAAAACTQDAAAAAAAANAMAAAAAAAABAAAACUcDAAAAAAAARwMAAAAAAAABAAAACVoDAAAAAAAAWgMAAAAAAAABAAAACWsDAAAAAAAAawMAAAAAAAABAAAACYADAAAAAAAAgAMAAAAAAAABAAAACQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA3AgAAAAAAAKADAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "src/pyrightconfig.json",
+			"settings":
+			{
+				"buffer_size": 546,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hamish/Library/Mobile Documents/com~apple~CloudDocs/Projects/Active/Budget Sweep"
+	],
+	"file_history":
+	[
+		"/Users/hamish/Library/Mobile Documents/com~apple~CloudDocs/Projects/Active/Budget Sweep/transactions.csv",
+		"/Users/hamish/Library/Mobile Documents/com~apple~CloudDocs/Projects/Active/Budget Sweep/BudgetSweep.py",
+		"/Users/hamish/Projects/Inactive/Budget/Budget/importStatement.py",
+		"/Users/hamish/Learning/Complete/Notes-Raymond Hettinger.py",
+		"/Users/hamish/Projects/Inactive/Budget/Budget/Budget.py",
+		"/Users/hamish/Projects/Inactive/Budget/Budget/foo.py",
+		"/Users/hamish/Projects/Inactive/Budget/Budget/foo2.py",
+		"/Users/hamish/Projects/Inactive/Budget/Budget/foo3.py",
+		"/Users/hamish/Projects/Inactive/Budget/Budget/gui.py",
+		"/Users/hamish/Projects/Inactive/Budget/Budget/Import.py",
+		"/Users/hamish/Downloads/DS.SolidWorks.2020.SP0.Premium/_SolidSQUAD_/readme - FileRiver.net.txt",
+		"/Users/hamish/Library/Mobile Documents/com~apple~CloudDocs/Learning/Active/ESP8266/source-code-examples-master/blinky/user/user_config.h",
+		"/Users/hamish/Library/Mobile Documents/com~apple~CloudDocs/Learning/Active/ESP8266/source-code-examples-master/blinky/README",
+		"/Users/hamish/for",
+		"/Users/hamish/details.",
+		"/opt/local/var/macports/logs/_opt_local_var_macports_sources_rsync.macports.org_macports_release_tarballs_ports_python_py-pyqt5/py39-pyqt5/main.log",
+		"/etc/zshrc",
+		"/Users/hamish/.zshrc",
+		"/Users/hamish/.zshenv",
+		"/Users/hamish/Library/Mobile Documents/com~apple~CloudDocs/Projects/Active/RC-CAR/.gitignore",
+		"/Users/hamish/.bashrc",
+		"/Users/hamish/bash.rc",
+		"/Users/hamish/Library/Mobile Documents/com~apple~CloudDocs/Documents/Temp/DeviceInfo.txt",
+		"/Users/hamish/Library/Mobile Documents/com~apple~CloudDocs/Projects/Active/RC CAR/.gitignore",
+		"/Users/hamish/.ssh/config",
+		"/Users/hamish/Library/Mobile Documents/com~apple~CloudDocs/Learning/Active/Creative Coding/sketches/output/sketch-05.js.html",
+		"/Users/hamish/Library/Mobile Documents/com~apple~CloudDocs/Projects/Tutorials/Creative Coding/sketches/sketch-03-a.js",
+		"/Users/hamish/Library/Mobile Documents/com~apple~CloudDocs/Projects/Tutorials/Creative Coding/sketches/sketch-03.js",
+		"/Users/hamish/Library/Mobile Documents/com~apple~CloudDocs/Projects/Tutorials/Creative Coding/sketches/sketch-02-b.js",
+		"/Users/hamish/Library/Mobile Documents/com~apple~CloudDocs/Projects/Tutorials/Creative Coding/sketches/sketch-02.js",
+		"/Users/hamish/Library/Mobile Documents/com~apple~CloudDocs/Projects/Tutorials/Creative Coding/sketches/sketch-01.js",
+		"/Users/hamish/Library/Mobile Documents/com~apple~CloudDocs/Projects/Tutorials/Creative Coding/hello.html",
+		"/Users/hamish/Library/Mobile Documents/com~apple~CloudDocs/Projects/Tutorials/Creative Coding/sketches/sketch-04.js",
+		"/Users/hamish/Library/Mobile Documents/com~apple~CloudDocs/Projects/Tutorials/Creative Coding/sketches/sketch-02-a.js",
+		"/Users/hamish/Desktop/Test/Test1.cs8",
+		"/opt/local/var/macports/build/_opt_local_var_macports_sources_rsync.macports.org_macports_release_tarballs_ports_comms_hidapi/hidapi/work/libusb-hidapi-7da5cc9/configure.ac",
+		"/Users/hamish/Downloads/gr-osmosdr/gr-osmosdr/README",
+		"/Users/hamish/Downloads/gr-osmosdr/gr-osmosdr/CMakeLists.txt",
+		"/private/etc/zprofile",
+		"/private/etc/bashrc",
+		"/Users/hamish/.zprofile",
+		"/Users/hamish/.bash_profile",
+		"/private/etc/profile"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"date2",
+			"date1",
+			"Temp",
+			"m",
+			"df2",
+			"filename",
+			"df2",
+			"Bills",
+			"Headers\nAccount\nDate - DD/MM/YYYY\nOriginal Date - DD/MM/YYYY\nDescription\nOriginal Description\nAmount\nCurrency\nCategory\nBudget\n\nStructure\nHeaders\nBlank Row\nData"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/BudgetSweep.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5885,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".[",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-pyright"
+								}
+							],
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///Users/hamish/Library/Mobile%20Documents/com%7Eapple%7ECloudDocs/Projects/Active/Budget%20Sweep/src/BudgetSweep.py",
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/hamish/Library/Mobile Documents/com~apple~CloudDocs/Projects/Complete/PythonPDF/src/pythonPDF.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".[",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-pyright"
+								}
+							],
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///Users/hamish/Library/Mobile%20Documents/com%7Eapple%7ECloudDocs/Projects/Complete/PythonPDF/src/pythonPDF.py",
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								158,
+								158
+							]
+						],
+						"settings":
+						{
+							"auto_name": "DataFrame.at()   #Selection by Label",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"lsp_uri": "buffer://sublime/52",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 558,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								558,
+								558
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Amount Category      Budget",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"lsp_uri": "buffer://sublime/53",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1903,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".[",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-pyright"
+								}
+							],
+							"bracket_highlighter.busy": true,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "buffer://sublime/54",
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/pyrightconfig.json",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								546,
+								546
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"selector": "- comment - punctuation.separator - punctuation.definition.string.end - constant.character.escape - invalid.illegal - punctuation.section.mapping - punctuation.section.sequence",
+									"server": "LSP-json"
+								}
+							],
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///Users/hamish/Library/Mobile%20Documents/com%7Eapple%7ECloudDocs/Projects/Active/Budget%20Sweep/src/pyrightconfig.json",
+							"show_definitions": false,
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.diagnostics":
+	{
+		"height": 244.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "BudgetSweep.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
